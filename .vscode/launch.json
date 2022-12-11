@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FreelecSpringboot3WebserviceApplication<freelec-springboot3-webservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jojoldu.book.freelecspringboot3webservice.FreelecSpringboot3WebserviceApplication",
+            "projectName": "freelec-springboot3-webservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
