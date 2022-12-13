@@ -4,7 +4,7 @@
 - 01장 [인텔리제이로 스프링 부트 시작하기](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/01.md)
 - 02장 [스프링 부트에서 테스트 코드를 작성하자](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/02.md)
 - 03장 [스프링 부트에서 JPA로 데이터베이스 다뤄보자](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/03.md)
-- 04장 [머스테치로 화면 구성하기](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/04.md)
+- 04장 [머스타치로 화면 구성하기](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/04.md)
 - 05장 [스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/05.md)
 - 06장 [AWS 서버 환경을 만들어보자 - AWS EC2](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/06.md)
 - 07장 [AWS에 데이터베이스 환경을 만들어보자 - AWS RDS](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/07.md)
