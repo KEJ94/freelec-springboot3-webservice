@@ -19,4 +19,4 @@
 - 11장 [1인 개발 시 도움이 될 도구와 조언들](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/11.md)
 
 ### 참조
-- [프로젝트 생성 특이사항](https://github.com/KEJ94/TIL/blob/main/freelec-springboot3-webservice/프로젝트_생성_특이사항.md)
+- [프로젝트 생성 특이사항](https://github.com/KEJ94/freelec-springboot3-webservice/blob/main/md/프로젝트_생성_특이사항.md)
