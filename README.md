@@ -1,10 +1,4 @@
 ## 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
-### 교재
-- 저자 : 이동욱
-- 출판사 : 프리렉
-- 쪽수 : 416p
-- 발행일 : 2019년 11월 29일
-
 ### 목차
 - 01장 [인텔리제이로 스프링 부트 시작하기](https://github.com/KEJ94/freelec-springboot3-webservice/blob/main/md/01.md)
 - 02장 [스프링 부트에서 테스트 코드를 작성하자](https://github.com/KEJ94/freelec-springboot3-webservice/blob/main/md/02.md)
